@@ -1,0 +1,40 @@
+
+body {
+    background-color: rgb(161, 195, 240);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    border: solid;
+    width: 25%;
+    height: 20%;
+    margin: 0 auto;
+    border-color: transparent;
+    border-radius: 1rem;
+    background-color: white;
+}
+
+.qr {
+    width: 90%;
+    margin: 4% auto;
+}
+.qr img{
+    border: transparent;
+    border-radius: 1rem;
+}
+
+.desc{
+    margin: 4%;
+    text-align: center;
+}
+h1{
+    font-size: 1.7rem;
+    margin: auto;
+}
+h3{
+    color: gray;
+}
+
+.attribution {
+    margin: 0 auto;
+}
